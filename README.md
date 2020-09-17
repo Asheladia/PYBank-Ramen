@@ -19,7 +19,7 @@ Push the above changes to GitHub.
 
 
 ## PyBank
-image ![https://github.com/Asheladia/Python-Homework/blob/master/Images_revenue-per-lead.jpg]
+image !(https://github.com/Asheladia/Python-Homework/blob/master/Images_revenue-per-lead.jpg)
 
 In this activity, you are tasked with creating a Python script for analyzing the financial records of your company. You will be provided with a financial dataset in this file: budget_data.csv. This dataset is composed of two columns, Date and Profit/Losses. (Thankfully, your company has rather lax standards for accounting, so the records are simple.)
 Your task is to create a Python script that analyzes the records to calculate each of the following:

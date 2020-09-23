@@ -63,17 +63,17 @@ Enter Python! Python provides a wide range of capabilities for handling data, ha
 In this homework assignment, you will need to:
 
 
-Read the Data
+# Read the Data
 
 
-Manipulate the Data
+# Manipulate the Data
 
 
 
 
 ## Instructions
 
-Read the Data
+# Read the Data
 Complete the following:
 
 
@@ -128,7 +128,7 @@ Then, loop through every row in the sales list object.
 For each row of the sales data, set the following columns of the sales data to their own variables:
 
 ### Quantity
-Menu_Item
+# Menu_Item
 
 
 
@@ -143,7 +143,7 @@ Perform a quick check if the sales_item is already included in the report. If no
 
 
 
-Create a nested loop by looping through every record in menu.
+# Create a nested loop by looping through every record in menu.
 
 
 For each row of the menu data, set the following columns of the menu data to their own variables:
@@ -171,7 +171,7 @@ Else print the message "{sales_item} does not equal {item}! NO MATCH!".
 
 
 
-Write out the contents of the report dictionary to a text file. The report should output each ramen type as the keys and 01-count, 02-revenue, 03-cogs, and 04-profit metrics as the values for every ramen type as shown:
+# Write out the contents of the report dictionary to a text file. The report should output each ramen type as the keys and 01-count, 02-revenue, 03-cogs, and 04-profit metrics as the values for every ramen type as shown:
 spicy miso ramen {'01-count': 9238, '02-revenue': 110856.0, '03-cogs': 46190.0, '04-profit': 64666.0}
 tori paitan ramen {'01-count': 9156, '02-revenue': 119028.0, '03-cogs': 54936.0, '04-profit': 64092.0}
 truffle butter ramen {'01-count': 8982, '02-revenue': 125748.0, '03-cogs': 62874.0, '04-profit': 62874.0}
@@ -227,7 +227,7 @@ Always commit your work (and do it often!) and back it up with GitHub pushes. Yo
 ### Submission
 
 
-Upload homework files to your GitHub repo.
+# Upload homework files to your GitHub repo.
 
 
-Submit the link to your GitHub repo on Bootcamp Spot.
+# Submit the link to your GitHub repo on Bootcamp Spot.
